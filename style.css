@@ -1,0 +1,11 @@
+.heading {
+   font-weight: 700; 
+   font-family: sans-serif;
+}
+
+.link {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    background-color: green;
+}
